@@ -1354,6 +1354,7 @@ input[type="submit"] {
     position: absolute;
 }
 .play-btn img{
+    opacity: .5;
     width: 80px!important;
 }
 .custom-nav {
